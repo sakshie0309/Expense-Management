@@ -1,4 +1,5 @@
 # Expense-Management System-
+MERN stack
 ![WhatsApp Image 2025-04-30 at 16 04 58 (1)](https://github.com/user-attachments/assets/c8d48e87-1e1d-4b49-b513-f4792fe15a4e)
 ![WhatsApp Image 2025-04-30 at 16 04 58](https://github.com/user-attachments/assets/e54f063c-29a6-453b-9faf-e1c1e963b044)
 ![WhatsApp Image 2025-04-30 at 16 04 59 (1)](https://github.com/user-attachments/assets/1b4b95db-e747-4d7f-8c44-ba1c70b057c1)
